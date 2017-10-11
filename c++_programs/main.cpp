@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-//#include "query.h"
 
 using namespace std;
 
@@ -21,6 +20,8 @@ int main()
         else
             cout << "Nope. Try again." << endl;
     }
+    
+    cout << "Good Bye." << endl;
 
     return 0;
 }
