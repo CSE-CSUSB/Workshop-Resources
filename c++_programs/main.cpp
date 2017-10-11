@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include "query.h"
 
 using namespace std;
 
